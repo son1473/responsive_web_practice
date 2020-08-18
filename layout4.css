@@ -1,0 +1,21 @@
+#wrap {
+  width: 1500px;
+}
+header {
+  width: 100%;
+}
+nav {
+  width: 20%;
+}
+aside {
+  width: 80%;
+}
+section {
+  width: 80%;
+}
+article {
+  width: 80%;
+}
+footer {
+  width: 100%;
+}
